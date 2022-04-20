@@ -8,4 +8,4 @@ Start by getting at least one pacman positioned and viewable.
 
 <img src="PacMan1.png">
 
-I completed the code in the spots required, but changed the visuals to be easy on the eyes and fit closer to the Pacman brand.
+I completed the code in the spots required, but changed the visuals to be easy on the eyes and fit closer to the Pacman brand. Moving forward with this design. I would like to change this to a menu screen that you could transition into a fun and short Pacman game.
